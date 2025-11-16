@@ -48,3 +48,9 @@ Scénario stratégique
 Chemins d'attaque:
 * directs: source de risque vers système
 * indirects: en passant par les parties prenantes
+
+NB (quiz):
+* une partie prenante peut être une source de risque
+* une source de risque n'est pas une partie prenante (hackers, concurrents...)
+Scénarios stratégiques:
+* Des employés utilisent des logiciels non autorisés, menaçant la conformité aux politiques internes. Chemin d'Attaque : Direct (via les employés). Explication: l'utilisation de logiciels non autorisés est une menace, ce n'est pas un scénario stratégique typique. Il manque une valeur métier.

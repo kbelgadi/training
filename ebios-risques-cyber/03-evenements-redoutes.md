@@ -22,8 +22,8 @@ Ex:
 
 chaque evet redouté => affecte directement 1 ou +ieurs vals métier identifiées comme essentielles à l'entr
 
-A partir de la liste des val métiers essentielles idetifiées,
-    --> quels evets peuvent affecter la dispo, l'intégrité, la confidencialité de ces val métier?
+A partir de la liste des val métiers essentielles identifiées,
+    --> quels evets peuvent affecter la dispo, l'intégrité, la confidentialité de ces val métier?
     --> quel est l'evet le +grave qui peut arriver sur ces val métier
 
 ex: 

@@ -19,7 +19,7 @@ hopital:
 * appro en médocs
 
 Q2: quelles sont les ressources concretes sur lesquelles reposent les val métier?
-Biens support: élets tech orga ou humains qui permettent le bon fonctionnement de l'activité d'entrep
+Biens de support: élets tech orga ou humains qui permettent le bon fonctionnement de l'activité d'entrep
 
 Quizz - cas boulangerie
 NB:

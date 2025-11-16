@@ -2,7 +2,7 @@ gravité:
 évaluaton de l'impact d'un evet redouté
 traduit le niveau et l'intensité des effets d'un risque
 
-dans une analyse de risque --> gravité déterimée par une échelle propre à chaque org
+dans une analyse de risque --> gravité déterminée par une échelle propre à chaque org
 
 estimation de gravité --> echelle possible de 1 à 4
 * 1: n'affecte pas la val métier à protéger

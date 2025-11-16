@@ -24,8 +24,3 @@ supermarché:
 biens suppport: piliers techno et humains de l'entreprise
 
 les protéger => stabilité, sécurité et résilience des vals métier
-
-
-
-
-

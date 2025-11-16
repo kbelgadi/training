@@ -9,9 +9,9 @@ Ident des sources
     => comprendre d'où peut venir le danger
 
 cas d'attaque:
-    --> motivation d'une source de risque: obectifs visés
+    --> motivation d'une source de risque: objectifs visés
         --> ce que cherche à obtenir une source de risque en comprometant le sys: 
-            vol de données, interruption de serv, sabotage, extorsion finnciere
+            vol de données, interruption de serv, sabotage, extorsion financiere
 
 Ex:
 source de risque: hacker
